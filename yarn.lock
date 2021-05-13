@@ -141,7 +141,7 @@
     "@aws-cdk/cx-api" "1.103.0"
     constructs "^3.3.69"
 
-"@aws-cdk/aws-lambda@*":
+"@aws-cdk/aws-lambda@^1.103.0":
   version "1.103.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-lambda/-/aws-lambda-1.103.0.tgz#e2d38b9ce1e0bd95609f6e3f7e9c34fa9c82583e"
   integrity sha512-iKotVg1q1aUrBLbJOUXlua0AoOaTZ+5zEIV+AUmHBywEMcS6EZnP++YPnhHg62YpY6pRCglMBxjjwlVK4ChGdw==
@@ -955,9 +955,9 @@
   integrity sha512-p68+a+KoxpoB47015IeYZYRrdqMUcpbK8re/zpFB8Ld46LHC1lPEbp3EXgkEhAYEcPvjJF6ZO+869SQ0aH1dcA==
 
 "@types/node@^10.17.0":
-  version "10.17.59"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.59.tgz#03f440ccf746a27f7da6e141e6cbae64681dbd2f"
-  integrity sha512-7Uc8IRrL8yZz5ti45RaFxpbU8TxlzdC3HvxV+hOWo1EyLsuKv/w7y0n+TwZzwL3vdx3oZ2k3ubxPq131hNtXyg==
+  version "10.17.60"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.60.tgz#35f3d6213daed95da7f0f73e75bcc6980e90597b"
+  integrity sha512-F0KIgDJfy2nA3zMLmWGKxcH2ZVEtCZXHHdOQs2gSaQ27+lNeEfGxzkIw90aXswATX7AZ33tahPbzy6KAfUreVw==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
